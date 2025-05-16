@@ -4,9 +4,11 @@
 </p>
 
 <!-- Typing SVG for intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fdf0d5&width=700&lines=Hey,+I'm+Ayush+Warsh!;3rd-year+ECE+Student+%7C+Aspiring+Software+Engineer;State-level+Table+Tennis+Player" alt="Typing Animation"/>
-</p>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fdf0d5&width=700&lines=Hey,+I'm+Ayush+Warsh!;3rd-year+ECE+Student+%7C+Aspiring+Software+Engineer;State-level+Table+Tennis+Player" 
+  alt="Hey, I'm Ayush Warsh! | 3rd-year ECE Student | Aspiring Software Engineer | State-level Table Tennis Player"
+/>
+
 
 ---
 
